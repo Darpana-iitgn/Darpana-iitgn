@@ -7,6 +7,7 @@
   - ⚡ **Open Source Contributions** - IraSoro/peri#307, EbookFoundation/free-programming-books#11686, nextcloud/documentation#12325, PriyaGhosal/SkillWise#855
   - ⚡ **Web Development** - Darpana-iitgn/Nyasa-Website, Darpana-iitgn/web-dev, Darpana-iitgn/lets_quiz
   - ⚡ **Course Assignments** - Darpana-iitgn/ML_Assign_2, Darpana-iitgn/ES335_pre_req, Darpana-iitgn/ml_assignment_3
+- [![An image of @darpanaiitgn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darpanaiitgn)](https://holopin.io/@darpanaiitgn)
 
 <!---
 Darpana-iitgn/Darpana-iitgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
